@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nguyen Tran 👋
 
-<!--
-**Nguyentran4/Nguyentran4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building modern, scalable, and interactive web applications.  
+I enjoy creating clean user experiences combined with strong backend architecture and real-time systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.S. in Computer Science from George Mason University
+- 💻 Interested in Full Stack Development, Distributed Systems, and AI
+- ⚡ Building modern web apps with React, Spring Boot, Node.js, and TypeScript
+- 🎨 Passionate about clean UI, smooth animations, and interactive experiences
+
+## 🛠 Tech Stack
+
+**Languages:** Java, Python, JavaScript, TypeScript, C, SQL  
+**Frontend:** React, Tailwind CSS, Vite, HTML5 Canvas  
+**Backend:** Spring Boot, Node.js, Express.js, Socket.io  
+**Databases & Tools:** PostgreSQL, Redis, MySQL, Docker, Git, Linux
+
+## 📫 Contact
+
+- Email: bachtran700@gmail.com
+- LinkedIn: https://linkedin.com/in/nguyen-tran4
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
